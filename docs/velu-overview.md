@@ -6,6 +6,8 @@ sidebar_position: 1
 
 ## What is Velu?
 
+![Velu overview diagram illustrating key integrations and workflows.](/img/1-290244d3.png)
+
 Velu is an AI assistant that helps technical writers create and update documentation fast. It combines domain context, integrated project data, and style guidance so teams can focus on accuracy instead of manual drafting.
 
 ## Why Velu matters
