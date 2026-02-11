@@ -3,29 +3,29 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Getting Started",
+        "slug": "getting-started",
+        "pages": [
+          "quickstart",
+          "installation"
+        ],
+        "groups": [
+          {
+            "group": "Guides",
+            "slug": "guides",
+            "pages": [
+              "guides/configuration",
+              "guides/deployment"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "API Reference",
         "slug": "api-reference",
         "pages": [
           "api-reference/overview",
           "api-reference/authentication"
-        ]
-      }
-    ],
-    "groups": [
-      {
-        "group": "Getting Started",
-        "slug": "getting-started"
-        "pages": [
-          "quickstart",
-          "installation"
-        ]
-      },
-      {
-        "group": "Guides",
-        "slug": "guides"
-        "pages": [
-          "guides/configuration",
-          "guides/deployment"
         ]
       }
     ]
